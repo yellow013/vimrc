@@ -1,2 +1,2 @@
-# yvim
+# vimrc
 vim config
